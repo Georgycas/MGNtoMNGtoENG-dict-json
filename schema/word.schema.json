@@ -1,0 +1,46 @@
+{
+  "id": "",
+  "lemma": "",
+  "normalized": "",
+  "pos": "",
+  "pronunciation": "",
+  "transliteration": "",
+
+  "senses": [
+    {
+      "sense_id": 1,
+
+      "definitions": {
+        "mn": [],
+        "en": []
+      },
+
+      "translations": {
+        "en": [],
+        "ru": [],
+        "zh": []
+      },
+
+      "examples": [],
+
+      "synonyms": [],
+      "antonyms": [],
+
+      "domain": "",
+      "frequency": null,
+      "register": "neutral"
+    }
+  ],
+
+  "morphology": {},
+  "etymology": "",
+  "dialect": "",
+
+  "tags": [],
+
+  "source": "",
+  "license": "",
+
+  "created_at": "",
+  "updated_at": ""
+}
